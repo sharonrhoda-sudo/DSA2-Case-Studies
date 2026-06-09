@@ -1,2 +1,3 @@
 # DSA2-Case-Studies
 A collection of Data Structures and Algorithms (DSA) case studies implemented in Java, demonstrating real-world applications such as graph algorithms, trees, heaps, segment trees, and optimization techniques. Includes problem statements, source code, and sample outputs.
+This repository contains DSA case studies based on real-world scenarios from domains such as transportation, e-commerce, warehousing, and streaming platforms. The solutions are implemented in Java and showcase efficient algorithms, data structures, and complexity analysis. Each case study includes a problem description, implementation, and sample execution results.
